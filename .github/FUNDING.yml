@@ -1,0 +1,12 @@
+# FUNDING.yml — бутонът „Sponsor“ за всичките ми репозитория.
+# Този файл се намира в специалното репо .github на път .github/FUNDING.yml,
+# затова GitHub го прилага автоматично към всички мои репота,
+# които нямат собствен FUNDING.yml.
+
+ko_fi: W2R229YDWC                     # Ko-fi — https://ko-fi.com/W2R229YDWC
+
+# Други платформи — разкоментирай, само ако ги използваш:
+# github: YOUR_GITHUB_USERNAME        # GitHub Sponsors (изисква одобрена заявка)
+# buy_me_a_coffee: YOUR_BMC_USERNAME
+# patreon: YOUR_PATREON_USERNAME
+# custom: ["https://www.paypal.me/YOUR_USERNAME"]   # URL-и с ':' се ограждат в кавички
